@@ -1,0 +1,6 @@
+{
+  "name": "Portal Mifire",
+  "description": "Portal Mifire - Autenticação Única Corporativa MAT INCÊNDIO",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
